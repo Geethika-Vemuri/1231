@@ -11,3 +11,4 @@ spec:
         image: geethika/myapp:latest
         ports:
         - containerPort: 5000
+
